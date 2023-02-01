@@ -2,11 +2,11 @@ RENCANA BELAJAR DIFF
 
 - JAVASCRIPT LANJUTAN
   *FRAMWORKS JAVASCRIPT
-  ^ Vue
-  ^ React
-- STRUKTUR DATA DASAR
+   ^Angular
+   ^React
 - PHP FRAMWORKS
-  ^ Laravel
+  ^laravel
+- STRUKTUR DATA DASAR
 - CSS FRAMEWORK
 - C++
 - Python
