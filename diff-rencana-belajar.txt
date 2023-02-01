@@ -6,5 +6,7 @@ RENCANA BELAJAR DIFF
    ^React
 - PHP FRAMWORKS
   ^laravel
+- STRUKTUR DATA DASAR
 - CSS FRAMEWORK
 - C++
+- Python
